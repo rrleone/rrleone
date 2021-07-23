@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rrleone
 - 👀 I’m interested in learning about Python, I.A., Machine Learning, R, Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on everyone that qant to know more and more....
+- 💞️ I’m looking to collaborate on everyone that want to learn more and more....
 - 📫 How to reach me rrleone@outlook.com
 
 <!---
